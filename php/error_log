@@ -1,0 +1,178 @@
+[28-Mar-2016 08:14:30 UTC] LifeTime: 0
+[28-Mar-2016 19:14:52 Australia/Melbourne] LifeTime: 0
+[28-Mar-2016 19:14:55 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1451739600 AND 1483102800 ORDER BY date ASC
+[28-Mar-2016 19:15:00 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1456750800 AND 1459342800 ORDER BY date ASC
+[28-Mar-2016 19:15:00 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1451739600 AND 1483102800 ORDER BY date ASC
+[28-Mar-2016 19:15:47 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1451739600 AND 1483102800 ORDER BY date ASC
+[28-Mar-2016 19:17:21 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1459692000 AND 1461420000 ORDER BY date ASC
+[29-Mar-2016 05:29:50 UTC] LifeTime: 0
+[29-Mar-2016 16:30:13 Australia/Melbourne] LifeTime: 0
+[29-Mar-2016 16:30:15 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1460296800 AND 1461420000 ORDER BY date ASC
+[29-Mar-2016 16:30:16 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1456750800 AND 1459342800 ORDER BY date ASC
+[29-Mar-2016 16:30:16 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1451739600 AND 1483102800 ORDER BY date ASC
+[29-Mar-2016 05:31:21 UTC] LifeTime: 0
+[29-Mar-2016 16:32:19 Australia/Melbourne] LifeTime: 0
+[29-Mar-2016 16:32:27 Australia/Melbourne] LifeTime: 0
+[29-Mar-2016 16:32:28 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1451739600 AND 1483102800 ORDER BY date ASC
+[29-Mar-2016 16:32:30 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1456750800 AND 1459342800 ORDER BY date ASC
+[29-Mar-2016 16:32:30 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1460296800 AND 1461420000 ORDER BY date ASC
+[29-Mar-2016 16:32:32 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1451739600 AND 1483102800 ORDER BY date ASC
+[29-Mar-2016 05:43:22 UTC] LifeTime: 0
+[19-Apr-2016 16:54:49 Australia/Melbourne] LifeTime: 0
+[19-Apr-2016 16:54:53 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1451826000 AND 1483016400 ORDER BY date ASC
+[19-Apr-2016 16:55:14 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1459429200 AND 1461938400 ORDER BY date ASC
+[19-Apr-2016 16:55:16 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1451826000 AND 1483016400 ORDER BY date ASC
+[19-Apr-2016 16:55:32 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1462111200 AND 1463234400 ORDER BY date ASC
+[19-Apr-2016 16:56:02 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1462111200 AND 1463234400 ORDER BY date ASC
+[22-Apr-2016 18:10:12 Australia/Melbourne] LifeTime: 0
+[22-Apr-2016 18:10:16 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1462111200 AND 1463234400 ORDER BY date ASC
+[22-Apr-2016 18:10:38 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1451826000 AND 1483016400 ORDER BY date ASC
+[22-Apr-2016 18:10:44 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1459429200 AND 1461938400 ORDER BY date ASC
+[22-Apr-2016 18:10:45 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1462111200 AND 1463234400 ORDER BY date ASC
+[22-Apr-2016 18:10:47 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1459429200 AND 1461938400 ORDER BY date ASC
+[22-Apr-2016 18:10:49 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1462111200 AND 1463234400 ORDER BY date ASC
+[22-Apr-2016 18:10:58 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1451826000 AND 1483016400 ORDER BY date ASC
+[22-Apr-2016 18:11:28 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1462111200 AND 1463234400 ORDER BY date ASC
+[22-Apr-2016 18:13:12 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1459429200 AND 1461938400 ORDER BY date ASC
+[22-Apr-2016 18:13:14 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1451826000 AND 1483016400 ORDER BY date ASC
+[22-Apr-2016 18:13:20 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1462111200 AND 1463234400 ORDER BY date ASC
+[22-Apr-2016 18:14:56 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1451826000 AND 1483016400 ORDER BY date ASC
+[22-Apr-2016 18:15:01 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1462111200 AND 1463234400 ORDER BY date ASC
+[22-Apr-2016 18:15:02 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1451826000 AND 1483016400 ORDER BY date ASC
+[22-Apr-2016 18:15:19 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1459429200 AND 1461938400 ORDER BY date ASC
+[22-Apr-2016 18:15:20 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1459429200 AND 1461938400 ORDER BY date ASC
+[22-Apr-2016 18:15:21 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1462111200 AND 1463234400 ORDER BY date ASC
+[23-Apr-2016 21:00:40 Australia/Melbourne] LifeTime: 0
+[23-Apr-2016 21:00:42 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1451826000 AND 1483016400 ORDER BY date ASC
+[23-Apr-2016 23:55:00 Australia/Melbourne] LifeTime: 0
+[23-Apr-2016 23:55:10 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1462111200 AND 1463234400 ORDER BY date ASC
+[23-Apr-2016 23:55:43 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1459429200 AND 1461938400 ORDER BY date ASC
+[23-Apr-2016 23:55:44 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1462111200 AND 1463234400 ORDER BY date ASC
+[26-Apr-2016 10:36:16 Australia/Melbourne] LifeTime: 0
+[26-Apr-2016 10:36:21 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1462716000 AND 1463839200 ORDER BY date ASC
+[26-Apr-2016 10:36:41 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1451826000 AND 1483016400 ORDER BY date ASC
+[26-Apr-2016 10:36:48 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1462716000 AND 1463839200 ORDER BY date ASC
+[26-Apr-2016 10:41:48 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1462716000 AND 1463839200 ORDER BY date ASC
+[28-Apr-2016 07:09:00 Australia/Melbourne] LifeTime: 0
+[28-Apr-2016 07:11:32 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1451826000 AND 1483016400 ORDER BY date ASC
+[28-Apr-2016 07:11:32 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1451826000 AND 1483016400 ORDER BY date ASC
+[28-Apr-2016 07:11:56 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1462716000 AND 1463839200 ORDER BY date ASC
+[28-Apr-2016 07:11:56 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1462716000 AND 1463839200 ORDER BY date ASC
+[30-Apr-2016 14:52:58 Australia/Melbourne] LifeTime: 0
+[30-Apr-2016 14:53:06 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1451826000 AND 1483016400 ORDER BY date ASC
+[30-Apr-2016 14:53:18 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1462716000 AND 1463839200 ORDER BY date ASC
+[30-Apr-2016 14:53:23 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1459429200 AND 1461938400 ORDER BY date ASC
+[30-Apr-2016 14:53:26 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1462716000 AND 1463839200 ORDER BY date ASC
+[30-Apr-2016 14:53:39 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1451826000 AND 1483016400 ORDER BY date ASC
+[30-Apr-2016 04:54:19 UTC] LifeTime: 0
+[30-Apr-2016 18:26:00 Australia/Melbourne] LifeTime: 0
+[30-Apr-2016 18:26:03 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1451826000 AND 1483016400 ORDER BY date ASC
+[30-Apr-2016 18:26:43 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1462716000 AND 1463839200 ORDER BY date ASC
+[30-Apr-2016 18:27:02 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1462716000 AND 1463839200 ORDER BY date ASC
+[30-Apr-2016 08:27:34 UTC] LifeTime: 0
+[03-May-2016 13:41:50 Australia/Melbourne] LifeTime: 0
+[03-May-2016 13:41:53 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1463320800 AND 1464444000 ORDER BY date ASC
+[03-May-2016 13:43:07 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1462024800 AND 1464616800 ORDER BY date ASC
+[03-May-2016 13:43:11 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1451912400 AND 1483102800 ORDER BY date ASC
+[03-May-2016 13:43:16 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1463320800 AND 1464444000 ORDER BY date ASC
+[03-May-2016 14:02:21 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1463320800 AND 1464444000 ORDER BY date ASC
+[05-May-2016 08:50:51 Australia/Melbourne] LifeTime: 0
+[05-May-2016 08:50:53 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1463320800 AND 1464444000 ORDER BY date ASC
+[05-May-2016 08:50:55 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1462024800 AND 1464616800 ORDER BY date ASC
+[05-May-2016 08:51:02 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1451912400 AND 1483102800 ORDER BY date ASC
+[04-May-2016 22:51:21 UTC] LifeTime: 0
+[08-May-2016 20:51:14 Australia/Melbourne] LifeTime: 0
+[08-May-2016 20:51:19 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1463320800 AND 1464444000 ORDER BY date ASC
+[08-May-2016 20:51:26 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1462024800 AND 1464616800 ORDER BY date ASC
+[08-May-2016 20:51:44 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1451912400 AND 1483102800 ORDER BY date ASC
+[08-May-2016 10:52:52 UTC] LifeTime: 0
+[08-May-2016 21:02:45 Australia/Melbourne] LifeTime: 0
+[08-May-2016 21:02:48 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1451912400 AND 1483102800 ORDER BY date ASC
+[08-May-2016 21:02:50 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1462024800 AND 1464616800 ORDER BY date ASC
+[08-May-2016 21:02:55 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1451912400 AND 1483102800 ORDER BY date ASC
+[08-May-2016 21:03:24 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1462024800 AND 1464616800 ORDER BY date ASC
+[08-May-2016 21:03:25 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1463320800 AND 1464444000 ORDER BY date ASC
+[08-May-2016 21:03:26 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1462024800 AND 1464616800 ORDER BY date ASC
+[08-May-2016 21:04:01 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1463320800 AND 1464444000 ORDER BY date ASC
+[08-May-2016 11:04:27 UTC] LifeTime: 0
+[09-May-2016 15:11:27 Australia/Melbourne] LifeTime: 0
+[09-May-2016 15:11:29 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1463320800 AND 1465048800 ORDER BY date ASC
+[09-May-2016 15:24:08 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1462024800 AND 1464616800 ORDER BY date ASC
+[09-May-2016 15:24:14 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1463320800 AND 1465048800 ORDER BY date ASC
+[09-May-2016 15:24:15 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1463320800 AND 1465048800 ORDER BY date ASC
+[09-May-2016 15:24:18 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1451912400 AND 1483102800 ORDER BY date ASC
+[09-May-2016 15:24:20 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1462024800 AND 1464616800 ORDER BY date ASC
+[09-May-2016 05:26:50 UTC] LifeTime: 0
+[10-May-2016 20:23:43 Australia/Melbourne] LifeTime: 0
+[10-May-2016 20:23:52 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1462024800 AND 1464616800 ORDER BY date ASC
+[11-May-2016 10:27:30 Australia/Melbourne] LifeTime: 0
+[11-May-2016 10:27:33 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1451912400 AND 1483102800 ORDER BY mid DESC, date ASC
+[14-May-2016 22:31:40 Australia/Melbourne] LifeTime: 0
+[14-May-2016 22:31:44 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1463925600 AND 1465048800 ORDER BY mid DESC, date ASC
+[14-May-2016 22:34:04 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1451912400 AND 1483102800 ORDER BY mid DESC, date ASC
+[16-May-2016 08:28:08 Australia/Melbourne] LifeTime: 0
+[16-May-2016 08:28:12 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1463925600 AND 1465653600 ORDER BY mid DESC, date ASC
+[16-May-2016 22:24:11 Australia/Melbourne] LifeTime: 0
+[16-May-2016 22:24:13 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1463925600 AND 1465653600 ORDER BY mid DESC, date ASC
+[16-May-2016 22:24:34 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1463925600 AND 1465653600 ORDER BY mid DESC, date ASC
+[17-May-2016 15:00:13 Australia/Melbourne] LifeTime: 0
+[17-May-2016 15:00:16 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1464530400 AND 1465653600 ORDER BY mid DESC, date ASC
+[17-May-2016 15:12:08 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1451912400 AND 1483102800 ORDER BY mid DESC, date ASC
+[17-May-2016 15:12:18 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1462024800 AND 1464616800 ORDER BY mid DESC, date ASC
+[17-May-2016 15:12:25 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1464530400 AND 1465653600 ORDER BY mid DESC, date ASC
+[17-May-2016 15:20:23 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1462024800 AND 1464616800 ORDER BY mid DESC, date ASC
+[17-May-2016 15:20:28 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1451912400 AND 1483102800 ORDER BY mid DESC, date ASC
+[17-May-2016 15:35:21 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1451912400 AND 1483102800 ORDER BY mid DESC, date ASC
+[23-May-2016 16:08:01 Australia/Melbourne] LifeTime: 0
+[23-May-2016 16:08:09 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1464530400 AND 1466258400 ORDER BY mid DESC, date ASC
+[23-May-2016 16:08:56 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1462024800 AND 1464616800 ORDER BY mid DESC, date ASC
+[23-May-2016 16:09:32 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1451912400 AND 1483102800 ORDER BY mid DESC, date ASC
+[23-May-2016 16:09:39 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1451912400 AND 1483102800 ORDER BY mid DESC, date ASC
+[27-May-2016 18:19:42 Australia/Melbourne] LifeTime: 0
+[27-May-2016 18:19:46 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1465135200 AND 1466258400 ORDER BY mid DESC, date ASC
+[27-May-2016 18:20:13 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1462024800 AND 1464616800 ORDER BY mid DESC, date ASC
+[27-May-2016 18:20:21 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1451912400 AND 1483102800 ORDER BY mid DESC, date ASC
+[31-May-2016 11:38:36 Australia/Melbourne] LifeTime: 0
+[31-May-2016 11:38:38 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1465740000 AND 1466863200 ORDER BY mid DESC, date ASC
+[31-May-2016 11:38:40 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1462024800 AND 1464616800 ORDER BY mid DESC, date ASC
+[31-May-2016 11:38:54 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1465740000 AND 1466863200 ORDER BY mid DESC, date ASC
+[31-May-2016 11:38:57 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1451912400 AND 1483102800 ORDER BY mid DESC, date ASC
+[31-May-2016 11:38:58 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1451912400 AND 1483102800 ORDER BY mid DESC, date ASC
+[31-May-2016 11:39:02 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1465740000 AND 1466863200 ORDER BY mid DESC, date ASC
+[31-May-2016 11:40:22 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1451912400 AND 1483102800 ORDER BY mid DESC, date ASC
+[31-May-2016 13:36:42 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1465740000 AND 1466863200 ORDER BY mid DESC, date ASC
+[02-Jun-2016 05:22:35 Australia/Melbourne] LifeTime: 0
+[02-Jun-2016 05:22:43 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1465740000 AND 1466863200 ORDER BY mid DESC, date ASC
+[02-Jun-2016 05:22:54 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1464703200 AND 1467208800 ORDER BY mid DESC, date ASC
+[02-Jun-2016 05:23:17 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1465740000 AND 1466863200 ORDER BY mid DESC, date ASC
+[02-Jun-2016 05:23:32 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1464703200 AND 1467208800 ORDER BY mid DESC, date ASC
+[06-Jun-2016 04:52:08 Australia/Melbourne] LifeTime: 0
+[06-Jun-2016 04:52:09 Australia/Melbourne] LifeTime: 0
+[06-Jun-2016 04:52:26 Australia/Melbourne] LifeTime: 0
+[06-Jun-2016 04:52:43 Australia/Melbourne] LifeTime: 0
+[06-Jun-2016 04:52:56 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1465740000 AND 1467468000 ORDER BY mid DESC, date ASC
+[07-Jun-2016 10:47:01 Australia/Melbourne] LifeTime: 0
+[07-Jun-2016 10:47:07 Australia/Melbourne] LifeTime: 0
+[07-Jun-2016 10:47:25 Australia/Melbourne] LifeTime: 0
+[07-Jun-2016 10:47:40 Australia/Melbourne] LifeTime: 0
+[07-Jun-2016 10:48:05 Australia/Melbourne] LifeTime: 0
+[07-Jun-2016 10:48:11 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1466344800 AND 1467468000 ORDER BY mid DESC, date ASC
+[07-Jun-2016 10:53:15 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1466344800 AND 1467468000 ORDER BY mid DESC, date ASC
+[07-Jun-2016 10:53:19 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1466344800 AND 1467468000 ORDER BY mid DESC, date ASC
+[07-Jun-2016 10:53:26 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1464703200 AND 1467208800 ORDER BY mid DESC, date ASC
+[07-Jun-2016 10:53:27 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1464703200 AND 1467208800 ORDER BY mid DESC, date ASC
+[07-Jun-2016 10:53:27 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1464703200 AND 1467208800 ORDER BY mid DESC, date ASC
+[07-Jun-2016 10:54:53 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1451998800 AND 1483016400 ORDER BY mid DESC, date ASC
+[07-Jun-2016 10:55:00 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1451998800 AND 1483016400 ORDER BY mid DESC, date ASC
+[07-Jun-2016 11:06:55 Australia/Melbourne] LifeTime: 0
+[07-Jun-2016 11:07:08 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1466344800 AND 1467468000 ORDER BY mid DESC, date ASC
+[07-Jun-2016 11:07:13 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1464703200 AND 1467208800 ORDER BY mid DESC, date ASC
+[07-Jun-2016 11:07:36 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1451998800 AND 1483016400 ORDER BY mid DESC, date ASC
+[07-Jun-2016 11:08:18 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1464703200 AND 1467208800 ORDER BY mid DESC, date ASC
+[07-Jun-2016 01:08:45 UTC] LifeTime: 0
+[07-Jun-2016 11:09:32 Australia/Melbourne] LifeTime: 0
+[07-Jun-2016 11:09:55 Australia/Melbourne] LifeTime: 0
+[07-Jun-2016 11:09:58 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1464703200 AND 1467208800 ORDER BY mid DESC, date ASC
+[07-Jun-2016 11:10:07 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1464703200 AND 1467208800 ORDER BY mid DESC, date ASC
+[07-Jun-2016 11:10:56 Australia/Melbourne] SELECT dayoff.mid, crew.firstname, crew.surname, dayoff.date, dayoff.complete FROM dayoff JOIN crew ON dayoff.mid=crew.metime WHERE dayoff.date BETWEEN 1451998800 AND 1483016400 ORDER BY mid DESC, date ASC
+[07-Jun-2016 01:11:50 UTC] LifeTime: 0
